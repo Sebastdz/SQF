@@ -8,4 +8,6 @@ The scripts sent to this repository are:
 
 - Basic zombie script that follow players, play an animation and cause damage to the closest player
 
+The files are not to be shared publicly, but are to be treated as presentation of my experience.
+
 
